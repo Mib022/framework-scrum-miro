@@ -12,7 +12,7 @@ DESAFIO DE PROJETO DIO
 
 ## Authors
 
-- [@mib022](https://www.github.com/mib022)
+- [@mib022](https://www.github.com/Mib022)
 
 
 
